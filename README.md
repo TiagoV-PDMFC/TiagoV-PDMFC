@@ -18,8 +18,8 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 ## :shushing_face: Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TiagoVenceslau)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.linkedin.com/TiagoVenceslau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagovenceslau/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.linkedin.com/in/tiagovenceslau/)
 
 ### Stats
 
@@ -27,7 +27,7 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Build](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)
 
 
 
@@ -95,6 +95,8 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoV-PDMFC)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Build](https://github.com/TiagoV-PDMFC/TiagoV-PDMFC/actions/workflows/SyncFork.yaml/badge.svg)](http://www.pdmfc.com)
+
 ##### Pinned Repositories:
 
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=fgt-workspace)](https://github.com/anuraghazra/github-readme-stats)
@@ -102,6 +104,7 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=ctr-workspace)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=acdc-workspace)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### Disclaimer:
