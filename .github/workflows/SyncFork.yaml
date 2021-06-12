@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with: 
-          token: ${{ SYNC_KEY }}
+          token: ${{ secrets.SYNC_KEY }}
       - run: |
           git config --global user.email "auto@example.com"
           git config --global user.name "Auto Updater"
