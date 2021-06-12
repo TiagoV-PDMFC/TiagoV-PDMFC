@@ -14,5 +14,5 @@ jobs:
       - run: |
           git remote add fork https://github.com/TiagoVenceslau/TiagoVenceslau.git
           git fetch --prune --unshallow
-          git pull fork main --alow-unrelated-histories
+          git pull fork main --allow-unrelated-histories
           git push origin main --force-with-lease
